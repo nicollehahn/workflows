@@ -14,5 +14,12 @@
     "test",
     "workflows"
   ],
-  "author": "N Hahn"
+  "author": "N Hahn",
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
