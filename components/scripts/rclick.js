@@ -1,4 +1,3 @@
-
 var rclick = function() {
   var myNodes = document.querySelectorAll(".rclick");
 

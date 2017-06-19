@@ -1,21 +1,3 @@
-Skip to content
-
-Search…
-All gists
-GitHub
-New gist
-@nicollehahn
-  Star 6
-  Fork 6
-  @planetofthewebplanetoftheweb/data.json
-Created 3 years ago
-Embed
-<script src="https://gist.github.com/planetoftheweb/2c2f3b03b72a7f2ae923.js"></script>
-  Download ZIP
- Code  Revisions 1  Stars 6  Forks 6
-data.json file for a list of speakers.
-Raw
- data.json
 { "speakers" : [
   {
     "name":"Mr Bellingham",
